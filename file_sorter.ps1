@@ -6,7 +6,7 @@
 # VID-20201218-WA0000.mp4              --> from WhatsApp (videos)
 # 20201218_233856.jpg                  --> from camera (photo)
 # 20201218_233856.mp4                  --> from camera (video)
-# Screenshot_20201218-134418_XXXXX.jpg --> Screenshot from an application (XXXXX = Chrome ; Facebook ; Linkedin ; Firefox ; Chrome ; KAYAK ; Instagram ; TransferWise)
+# Screenshot_20201218-134418_XXXXX.jpg --> Screenshot from an application (XXXXX = Chrome ; Facebook ; Linkedin ; Firefox)
 
 # The program can sort only with more than two files.
 
